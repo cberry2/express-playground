@@ -1,0 +1,11 @@
+
+REFORMAT CODE
+shift + option + f
+
+EDITOR SETTINGS
+command + ,
+
+RUNNING TSLINT
+λ /usr/local/Cellar/node/11.10.0/lib/node_modules/tslint/bin/tslint --fix -p tsconfig.json
+Fixed 20 error(s) in /Users/cberry/dev/express-playground/client/src/router.ts
+Fixed 6 error(s) in /Users/cberry/dev/express-playground/client/src/main.ts
